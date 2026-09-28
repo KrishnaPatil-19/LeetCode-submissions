@@ -1,6 +1,6 @@
 # LeetCode Submissions
 
-> **LeetCode category-wise submissions (Manually added)**
+> **LeetCode category-wise submissions (Manually added).**
 
 This repository contains my solutions to LeetCode problems, organized by category and programming language. It serves as a personal collection of coding practice, problem-solving approaches, and SQL queries.
 
