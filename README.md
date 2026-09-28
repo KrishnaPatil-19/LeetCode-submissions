@@ -132,7 +132,7 @@ This repository is intended for learning, practice, and revision.
 
 **Krishna Patil**
 
-GitHub: [Krishna Patil](https://github.com/)
+LeetCode: [Krishna Patil](https://leetcode.com/u/KrishnaPatil-19/)
 
 ---
 
