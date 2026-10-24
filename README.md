@@ -33,10 +33,12 @@ LeetCode/
 │
 ├── Badges/
 │   ├── 50 days 2026 badge LeetCode congratulations image.png
-│   └── SQL-50 badge LeetCode congratulations image.png
+│   ├── SQL-50 badge LeetCode congratulations image.png
+|   └── ... (other badges) 
 │
 ├── Concurrency/
-│   └── 1114_Print-in-Order.java
+│   ├── 1114_Print-in-Order.java
+|   └── ... (other concurrency solutions) 
 │
 ├── Database/
 │   ├── 175_Combine-Two-Tables.sql
@@ -46,18 +48,21 @@ LeetCode/
 │   ├── 595_Big-Countries.sql
 │   └── ... (other SQL solutions)
 │
-├── JavaScript/
+├── JavaScript_TypeScript/
 │   ├── 2620_Counter.js
-│   └── 2667_Create-Hello-World-Function.js
+│   ├── 2667_Create-Hello-World-Function.js
+|   └── ... (other JS/TS solutions)
 │
 ├── Pandas/
-│   └── 183_Customers-Who-Never-Order.py
+│   ├── 183_Customers-Who-Never-Order.py
+|   └── ... (other pandas solutions)
 │
 ├── Shell/
 │   ├── 192_Word-Frequency.sh
 │   ├── 193_Valid-Phone-Numbers.sh
 │   ├── 194_Transpose-File.sh
-│   └── 195_Tenth-Line.sh
+│   ├── 195_Tenth-Line.sh
+|   └── ... (all shell solutions done)
 │
 └── README.md
 ```
@@ -117,9 +122,9 @@ Contains solutions to problems involving multithreading and execution order.
 
 **Language:** Java
 
-### 4. JavaScript
+### 4. JavaScript_TypeScript
 
-Contains solutions to LeetCode problems focused on JavaScript fundamentals and function-based programming challenges.
+Contains solutions to LeetCode problems focused on JavaScript/TypeScript fundamentals and function-based programming challenges.
 
 **Topics covered include:**
 
@@ -127,9 +132,9 @@ Contains solutions to LeetCode problems focused on JavaScript fundamentals and f
 - Higher-order functions
 - Counters and state
 - Function creation and invocation
-- JavaScript fundamentals
+- JavaScript/TypeScript fundamentals
 
-**Language:** JavaScript
+**Language:** JavaScript & TypeScript
 
 ### 5. Pandas
 
